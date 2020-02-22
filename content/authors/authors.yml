@@ -1,0 +1,11 @@
+- name: Sebastian Selling
+  bio: |
+    Creator of Pixels since 2010. Startup Design Lead since 2012. Active Trader & Investor since 2017.
+  avatar: ./avatars/seb.jpg
+  social:
+    - url: https://unsplash.com
+    - url: https://stackoverflow.com
+    - url: https://github.com
+    - url: https://github.com
+    - url: https://github.com
+  featured: true
